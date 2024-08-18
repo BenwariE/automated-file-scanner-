@@ -1,2 +1,2 @@
-# -purple-stuff-
+# automated scanner 
 startups
